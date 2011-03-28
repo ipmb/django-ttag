@@ -3,10 +3,10 @@ Usage
 =====
 
 
-``Tag`` and the various ``Arg`` classes are consciously modelled after
+``Tag`` and the various ``Arg`` classes are consciously modeled after
 Django's ``Model``, ``Form``, and respective ``Field`` classes.
 
-``Arg``s are set on a ``Tag`` in the same way ``Field``s would be set on a
+``Arg``\ s are set on a ``Tag`` in the same way ``Field``\ s would be set on a
 ``Model`` or ``Form``.
 
 
